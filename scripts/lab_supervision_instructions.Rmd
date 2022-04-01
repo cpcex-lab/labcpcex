@@ -1,0 +1,174 @@
+---
+title: "lab_cpcex brief introduction"
+subtitle: "This document is under development." 
+author: "Davi Moreira"
+date: "Fist version: 2022-01-15. Update: `r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    theme: cerulean
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages, include=FALSE, warning=FALSE, message=FALSE}
+library(here)
+```
+
+## Introduction
+
+The Experimental and Computational Political Science Lab (`lab_cpcex`) develops political science research and applied projects with intense experimental, computer science, and statistical methods. The `lab_cpcex` has three main objectives:
+
+1. Answer political science research questions that causal and prediction methods can tackle.
+2. Apply computational approaches to environmental, and human development projects, and public policy analysis.
+3. Produce and disseminate courses and teaching materials related to the field.
+
+## Supervision
+
+### Are you looking for Prof. Davi Moreira supervision?
+
+We will be happy to have you in the `lab_cpcex`, specially if:
+
+- you are an undergrad student at the Political Science course at UFPE and have grades greater than 9 in  "CP011 - Métodos Quantitativos I" and "CP015 - Métodos Quantitativos II";
+
+- you are from economy, math, statistics, and computer science courses with good background in quantitative methods and/or programming skills and have great interest in politics;
+
+- you are a graduate student, is interest in the experimental and computational political science field, and want to contribute with the lab projects;
+
+### Are you under Prof. Davi Moreira supervision?
+
+You are free to not follow the instructions below, even when they are mandatory.
+
+#### Mandatory courses and programming languages
+
+During Professor Moreira supervision you will need to complete the following courses:
+
+- English - you must study english!
+- CP011 - Métodos Quantitativos I
+- CP015 - Métodos Quantitativos II
+- Análise de Dados
+- Estudos Avançados de Metodologia de Pesquisa
+- R and Python
+- DAG
+
+#### Expected aditional courses
+
+The following courses will make difference:
+
+- Calculus
+- Linear Algebra
+- Basic Statistics
+- Probability
+- Statistical Inference
+- Bayesian Statistics
+- Programming: `C`, `Julia`, `javascript`, `SQL`, `MySQL`
+
+#### Research funds
+
+During your supervision you must look for research funds from any available source. You are invited to use the lab infrastructure to apply for research grants and other opportunities.
+
+#### Mandatory readings (under development)
+
+- [The Book of Why](http://bayes.cs.ucla.edu/WHY/)
+- [Quantitative Social Science](https://qss.princeton.press/)
+- DSS
+- [txt4cs](https://bookdown.org/davi_moreira/txt4cs/)
+- [The Fundamentals of Political Science Research]()
+
+#### Build your research bibliography
+
+To start your research readings you must select the main papers connected with your research question published in the last 10 years in the following journals:
+
+- [Annual Review of Political Science](https://www.annualreviews.org/journal/polisci)
+- [Political Analysis](https://www.cambridge.org/core/journals/political-analysis)
+- [APSR](https://www.cambridge.org/core/journals/american-political-science-review)
+- [AJPS](https://ajps.org/)
+- [JOP](https://www.journals.uchicago.edu/toc/jop/current)
+- [BJPS](https://www.cambridge.org/core/journals/british-journal-of-political-science)
+- [BPSR](https://brazilianpoliticalsciencereview.org/)
+- [DADOS](http://dados.iesp.uerj.br/)
+- [ROP](https://www.cesop.unicamp.br/por/opiniao_publica)
+- [RSP](https://revistas.ufpr.br/rsp)
+- [RBCP](https://periodicos.unb.br/index.php/rbcp/index)
+
+Also, it is important for you to look for and read any [Oxford Handbooks](https://www.oxfordhandbooks.com/) connected with your research.
+
+#### Individual supervision
+
+If you are under my supervision, I will be available to talk to you every Friday during the semester from 11h to 12h (GMT-3). [Schedule a meeting](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUQ4eldjYnd1QXd5fGRlZmF1bHR8NWY3OTQxNGY4MTliNjdlNTBkOGRhZTU5MDNiYjliMTE).
+
+#### Seminars and meetings
+
+It is mandatory:
+
+- to present your research/project in the Political Science Department Seminars and Lab seminars once a year, having at least two presentations by year. 
+- to participate in all Lab meetings. 
+- to comment your colleagues presentations.
+
+#### Teacher Assistant (TA)
+
+You are invited to be TA at Professor Moreira's courses.
+
+#### Workshops (under development)
+
+You are invited to develop and participate in the basic workshop cycle:
+
+- Zotero; 
+- Github;
+- R and RStudio;
+- Latex;
+- Python;
+- Rmarkdown;
+
+- Additional workshops: 
+  - scientific writting;
+  - making an e-mail; 
+  - making presentation; 
+  - participating in trainee selections;
+  - CV development;
+  - LinkedIn design; 
+  - Personal webpage [themes](https://themes.gohugo.io/); 
+  - [Google Scholar](https://scholar.google.com/citations?user=dS9bbdMAAAAJ&hl=en);
+  - Twitter;
+
+
+#### Courses (under development)
+
+You are invited to participate in the following national and international summer schools:
+
+- IPSA Summer School
+- MQ UFMG
+
+
+#### Events (under development)
+
+You are invited to participate in the following national and international congresses:
+
+- ABCP
+- APSA
+- MPSA
+
+#### Manuscripts (under development)
+
+- **Master students:** your master dissertation must be written in english, follow the university rules and have a paper structure;
+
+- **Ph.D. students:** your thesys must be written in english, follow the university rules and have a paper structure by chapter (at least three, one of them must be single author);
+
+#### Other (under development)
+
+- You must participate in the POLMETH list: https://www.cambridge.org/core/membership/spm/mailing-list#. 
+
+<!---
+<center>
+![student-ws](images/student-ws.png){width=550px}
+</center>
+
+--->
+
+
+
